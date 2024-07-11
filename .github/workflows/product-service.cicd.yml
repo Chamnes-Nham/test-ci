@@ -1,7 +1,7 @@
 name: CI-for-pullrequest
 
 on:
-  pull_request:
+  push:
     branches:
       - main
 
